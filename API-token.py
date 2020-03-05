@@ -52,3 +52,13 @@ https://api.worldtradingdata.com/api/v1/history?symbol=^DAX&api_token=UFrhoimO1z
 # The symbol parameter allows you to request real time data for up to 500 stocks or indexes per request
 # on our highest advanced plan. The output=csv parameter will return the data as a CSV format but by default will return JSON.
 # The api_token is used to verify each request. 
+
+# RAW DATA:
+  
+{"symbols_requested":1,"symbols_returned":1,"data":[{"symbol":"^DAX","name":"DAX PERFORMANCE-INDEX",
+"currency":"N/A","price":"11944.72","price_open":"12191.41","day_high":"12207.77","day_low":"11844.88",
+"52_week_high":"13596.89","52_week_low":"11726.62","day_change":"-182.97","change_pct":"-1.51",
+"close_yesterday":"12127.69","market_cap":"N/A","volume":"0","volume_avg":"N/A","shares":"N/A",
+"stock_exchange_long":"","stock_exchange_short":"INDEXDB","timezone":"CET","timezone_name":"Europe/Berlin",
+"gmt_offset":"3600","last_trade_time":"2020-03-05 17:45:00","pe":"N/A","eps":"N/A"}]}
+
