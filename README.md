@@ -1,7 +1,7 @@
 # Thesaurus
-Private rep for first coding step
+Private rep for the first coding step
 
-Hi All
+Hi All,
 
 Welcome to the Construction Site of the Pythopaths.
 Here we will develop our project for the HSOG, Intro to Python Class.
