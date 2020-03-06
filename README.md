@@ -1,5 +1,5 @@
 # Corona - Goods Price Tracker
-Private repository to develop our Python Project
+Public repository to develop our Python Project
 
 Hi All,
 
