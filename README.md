@@ -1,4 +1,4 @@
-# Thesaurus
+# Corona - Goods Price Tracker
 Private rep for the first coding step
 
 Hi All,
