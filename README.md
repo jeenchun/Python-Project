@@ -1,6 +1,6 @@
 # Corona-Price-Tracker
 
-Private repository for the development of our Corona-Price-Tracker
+Branch for the development of our Corona-Price-Tracker
 
 Hi All,
 
