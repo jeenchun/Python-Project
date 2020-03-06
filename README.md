@@ -1,13 +1,17 @@
-# Thesaurus
-Private rep for the first coding step
+# Corona-Price-Tracker
+
+Private repository for the development of our Corona-Price-Tracker
 
 Hi All,
 
-Welcome to the Construction Site of the Pythopaths.
-Here we will develop our project for the HSOG, Intro to Python Class.
-Be the power with us.
+Welcome to the Corona-Price-Tracker of the Pythopaths. Here we present our Python project for the HSOG Intro to Python Class.
+It splits into three parts:
 
-We have three different Plans. A, B and *tadaa* C. Who knows which is going to win...
+1. The Narrative/ Use Case
+2. The Programing part, develoment, feasability -> Milestones
+3. Launch and Interpretation -> Output and Interface
+
+
 
 Cheers
 E, I, J, T
